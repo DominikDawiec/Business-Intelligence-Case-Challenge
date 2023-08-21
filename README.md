@@ -21,7 +21,7 @@ This repository contains the winning solution for the nationwide Business Intell
 ## Getting Started
 To use this application, you must have Jupyter Notebook installed on your system. 
 1. Clone the repository to your local machine. 
-2. Open bicc.ipynb in Jupyter Notebook or open the PDF file with the code and detailed informations regarding my approach.
+2. Launch bicc.ipynb in Jupyter Notebook, or refer to the included PDF for comprehensive details on the code and my methodology.
 
 ## Contact
 * Please feel free to reach me through my [LinkedIn](http://linkedin.com/in/dominikdawiec/). 
