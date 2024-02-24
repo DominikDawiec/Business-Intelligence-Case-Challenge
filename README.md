@@ -1,6 +1,6 @@
 # Business-Intelligence-Case-Challenge
 
-This repository contains the winning solution for the nationwide Business Intelligence Case Challenge, in which I got an ex eequo first place. The main objective of the competition was to design and implement a predictive model for forecasting the salaries of executive board members of publicly traded companies.
+This repository contains the winning solution for the **nationwide Business Intelligence Case Challenge**, in which I got an ex eequo **first place**. The main objective of the competition was to design and implement a **predictive model for forecasting the salaries of executive board members** of publicly traded companies.
 
 #### Project Status: [Completed]
 
